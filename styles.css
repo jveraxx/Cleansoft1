@@ -1,0 +1,45 @@
+/* header*/
+header{
+	background-color:#650e87;
+	padding-top:5px;
+}
+header a{
+	color:#FFFFFF;
+    font-size: 12px;
+    margin-top: 3px;
+
+}
+header a:hover{
+	text-decoration: none;
+	color:#EBA9EC;
+}
+.social-header{
+	margin-top: 3px;
+}
+.social-header a{
+	color:#FFFFFF;
+}
+.social-header a:hover{
+	color:#EBA9EC;
+}
+nav ul li a
+{
+	color:#650e87;
+}
+
+footer{
+	background-color:#650e87;
+	padding-top:15px;
+	color:#FFFFFF;
+    font-size: 12px;
+    margin-top: 3px;
+}
+
+.Sliderhome{
+ margin-bottom: 5px;
+}
+.carousel-caption{
+  background-color: rgba(101,14,135,0.75);
+  width: 200px;
+  text-align: center;
+}
